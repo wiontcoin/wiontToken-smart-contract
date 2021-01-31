@@ -1,2 +1,2 @@
-# wiontToken-smart-contract
-wiontToken-smart-contract
+# Wiont Coin smart contract
+Wiont Coin smart contract
